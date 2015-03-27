@@ -1,0 +1,3 @@
+The base that is needed to get a oonbotti2-based bot running
+
+By default console commands `/q` (quit) and `/m chan/nick msg` (send a PRIVMSG) are supported
